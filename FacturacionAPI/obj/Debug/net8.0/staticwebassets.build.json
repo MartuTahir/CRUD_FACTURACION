@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "dWk5VfKvcWSGxsUQAsSyrSTXMqctOp25yllvqK2yh2M=",
+  "Source": "FacturacionAPI",
+  "BasePath": "_content/FacturacionAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+vjkgywaiAY=",
+  "dgSpecHash": "M2o9dfA8bkM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\marti\\Desktop\\PROGRAMACION II\\Facturacion\\FacturacionAPI\\FacturacionAPI.csproj",
+  "projectFilePath": "C:\\Users\\marti\\Desktop\\CRUD_FACTURACION\\FacturacionAPI\\FacturacionAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marti\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\marti\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",

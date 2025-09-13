@@ -1,0 +1,238 @@
+{
+	"info": {
+		"_postman_id": "ee813659-9254-457c-926a-c954d10c588c",
+		"name": "FacturacionAPI",
+		"description": "API con utilidades para CRUD de articulos y de facturas",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "28885534"
+	},
+	"item": [
+		{
+			"name": "GET_ARTICLES",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7296/api/Articles",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7296",
+					"path": [
+						"api",
+						"Articles"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GET_ARTICLE_BY_ID",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7296/api/Articles/8",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7296",
+					"path": [
+						"api",
+						"Articles",
+						"8"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "PUT_ARTICLE",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"idArticle\": 8,\r\n  \"name\": \"Mochila\",\r\n  \"price\": 50000,\r\n  \"active\": true\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7296/api/Articles/8",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7296",
+					"path": [
+						"api",
+						"Articles",
+						"8"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "POST_ARTICLES",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"idArticle\": 0,\r\n  \"name\": \"Lapiz BIC\",\r\n  \"price\": 2000,\r\n  \"active\": true\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7296/api/Articles",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7296",
+					"path": [
+						"api",
+						"Articles"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "DELETE_ARTICLE",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7296/api/Articles/13",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7296",
+					"path": [
+						"api",
+						"Articles",
+						"13"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GET_BUDGETS",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7296/api/Budgets",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7296",
+					"path": [
+						"api",
+						"Budgets"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "POST_BUDGETS",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "\r\n{\r\n  \"id\": 0,\r\n  \"date\": \"2025-09-12T22:57:30.757Z\",\r\n  \"client\": \"Marti Nicole\",\r\n  \"payMethod\": {\r\n    \"id\": 1,\r\n    \"name\": \"Debito\"\r\n  },\r\n  \"active\": true,\r\n  \"details\": [\r\n    {\r\n      \"id\": 0,\r\n      \"article\": {\r\n            \"idArticle\": 2,\r\n            \"name\": \"Goma\",\r\n            \"price\": 10,\r\n            \"active\": true\r\n      },\r\n      \"count\": 1\r\n    }\r\n  ]\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7296/api/Budgets",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7296",
+					"path": [
+						"api",
+						"Budgets"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "DELETE_BUDGET",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7296/api/Budgets/1",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7296",
+					"path": [
+						"api",
+						"Budgets",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GET_BUDGET_BY_ID",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7296/api/Budgets/9",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7296",
+					"path": [
+						"api",
+						"Budgets",
+						"9"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Facturacion",
+    "\\Facturacion\\Data",
+    "\\Facturacion\\Domain"
   ],
+  "SelectedNode": "\\FacturacionAPI",
   "PreviewInSolutionExplorer": false
 }

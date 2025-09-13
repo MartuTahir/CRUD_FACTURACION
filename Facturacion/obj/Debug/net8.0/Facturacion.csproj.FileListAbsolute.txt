@@ -1,0 +1,30 @@
+C:\Users\marti\Desktop\PROGRAMACION II\Facturacion\Facturacion\bin\Debug\net8.0\Facturacion.deps.json
+C:\Users\marti\Desktop\PROGRAMACION II\Facturacion\Facturacion\bin\Debug\net8.0\Facturacion.dll
+C:\Users\marti\Desktop\PROGRAMACION II\Facturacion\Facturacion\bin\Debug\net8.0\Facturacion.pdb
+C:\Users\marti\Desktop\PROGRAMACION II\Facturacion\Facturacion\obj\Debug\net8.0\Facturacion.csproj.AssemblyReference.cache
+C:\Users\marti\Desktop\PROGRAMACION II\Facturacion\Facturacion\obj\Debug\net8.0\Facturacion.Properties.Resources.resources
+C:\Users\marti\Desktop\PROGRAMACION II\Facturacion\Facturacion\obj\Debug\net8.0\Facturacion.csproj.GenerateResource.cache
+C:\Users\marti\Desktop\PROGRAMACION II\Facturacion\Facturacion\obj\Debug\net8.0\Facturacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\Desktop\PROGRAMACION II\Facturacion\Facturacion\obj\Debug\net8.0\Facturacion.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\PROGRAMACION II\Facturacion\Facturacion\obj\Debug\net8.0\Facturacion.AssemblyInfo.cs
+C:\Users\marti\Desktop\PROGRAMACION II\Facturacion\Facturacion\obj\Debug\net8.0\Facturacion.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\PROGRAMACION II\Facturacion\Facturacion\obj\Debug\net8.0\Facturacion.sourcelink.json
+C:\Users\marti\Desktop\PROGRAMACION II\Facturacion\Facturacion\obj\Debug\net8.0\Facturacion.dll
+C:\Users\marti\Desktop\PROGRAMACION II\Facturacion\Facturacion\obj\Debug\net8.0\refint\Facturacion.dll
+C:\Users\marti\Desktop\PROGRAMACION II\Facturacion\Facturacion\obj\Debug\net8.0\Facturacion.pdb
+C:\Users\marti\Desktop\PROGRAMACION II\Facturacion\Facturacion\obj\Debug\net8.0\ref\Facturacion.dll
+C:\Users\marti\Desktop\CRUD_FACTURACION\Facturacion\bin\Debug\net8.0\Facturacion.deps.json
+C:\Users\marti\Desktop\CRUD_FACTURACION\Facturacion\bin\Debug\net8.0\Facturacion.dll
+C:\Users\marti\Desktop\CRUD_FACTURACION\Facturacion\bin\Debug\net8.0\Facturacion.pdb
+C:\Users\marti\Desktop\CRUD_FACTURACION\Facturacion\obj\Debug\net8.0\Facturacion.csproj.AssemblyReference.cache
+C:\Users\marti\Desktop\CRUD_FACTURACION\Facturacion\obj\Debug\net8.0\Facturacion.Properties.Resources.resources
+C:\Users\marti\Desktop\CRUD_FACTURACION\Facturacion\obj\Debug\net8.0\Facturacion.csproj.GenerateResource.cache
+C:\Users\marti\Desktop\CRUD_FACTURACION\Facturacion\obj\Debug\net8.0\Facturacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\Desktop\CRUD_FACTURACION\Facturacion\obj\Debug\net8.0\Facturacion.AssemblyInfoInputs.cache
+C:\Users\marti\Desktop\CRUD_FACTURACION\Facturacion\obj\Debug\net8.0\Facturacion.AssemblyInfo.cs
+C:\Users\marti\Desktop\CRUD_FACTURACION\Facturacion\obj\Debug\net8.0\Facturacion.csproj.CoreCompileInputs.cache
+C:\Users\marti\Desktop\CRUD_FACTURACION\Facturacion\obj\Debug\net8.0\Facturacion.sourcelink.json
+C:\Users\marti\Desktop\CRUD_FACTURACION\Facturacion\obj\Debug\net8.0\Facturacion.dll
+C:\Users\marti\Desktop\CRUD_FACTURACION\Facturacion\obj\Debug\net8.0\refint\Facturacion.dll
+C:\Users\marti\Desktop\CRUD_FACTURACION\Facturacion\obj\Debug\net8.0\Facturacion.pdb
+C:\Users\marti\Desktop\CRUD_FACTURACION\Facturacion\obj\Debug\net8.0\ref\Facturacion.dll

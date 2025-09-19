@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\FacturacionAPI_EF.props" />
+</Project>
